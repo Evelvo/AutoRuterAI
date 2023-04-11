@@ -1,0 +1,50 @@
+[
+    {
+      "x": 10,
+      "y": 2,
+      "x_to": 2,
+      "y_to": 13,
+      "top": 1,
+      "bottom": 0,
+      "right": 0,
+      "left": 1,
+      "obstructed": [32, 20],
+      "outcome": "right"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "x_to": 3,
+      "y_to": 4,
+      "top": 0,
+      "bottom": 1,
+      "right": 1,
+      "left": 0,
+      "obstructed": [32, 20, 10, 20],
+      "outcome": "left"
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "x_to": 2,
+      "y_to": 17,
+      "top": 1,
+      "bottom": 1,
+      "right": 0,
+      "left": 1,
+      "obstructed": [32, 20, 10, 20, 74, 0, 6, 4, 7, 9, 5, 64],
+      "outcome": "top"
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "x_to": 2,
+      "y_to": 11,
+      "top": 1,
+      "bottom": 0,
+      "right": 0,
+      "left": 0,
+      "obstructed": [32, 20, 10, 20],
+      "outcome": "bottom"
+    }
+  ]
